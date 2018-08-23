@@ -1,6 +1,20 @@
 {
-  "main.css": "static/css/main.8978a72c.css",
-  "main.css.map": "static/css/main.8978a72c.css.map",
-  "main.js": "static/js/main.17270911.js",
-  "main.js.map": "static/js/main.17270911.js.map"
+  "main.css": "static/css/main.d5426fb0.css",
+  "main.css.map": "static/css/main.d5426fb0.css.map",
+  "main.js": "static/js/main.50fe2557.js",
+  "main.js.map": "static/js/main.50fe2557.js.map",
+  "static\\media\\EclipseLogo.png": "static/media/EclipseLogo.907bba4e.png",
+  "static\\media\\NYULogo.jpg": "static/media/NYULogo.87b578c6.jpg",
+  "static\\media\\OSXLogo.png": "static/media/OSXLogo.0c8f4c51.png",
+  "static\\media\\PHPLogo.png": "static/media/PHPLogo.d27278dc.png",
+  "static\\media\\React.png": "static/media/React.580ffd26.png",
+  "static\\media\\SublimeLogo.png": "static/media/SublimeLogo.1325f6de.png",
+  "static\\media\\VisualStudioCode.png": "static/media/VisualStudioCode.f856163f.png",
+  "static\\media\\Windows10.png": "static/media/Windows10.2a0a23d8.png",
+  "static\\media\\jQueryLogo.png": "static/media/jQueryLogo.bf33c584.png",
+  "static\\media\\postman.png": "static/media/postman.9ae8ceaa.png",
+  "static\\media\\processing.png": "static/media/processing.d28e81c0.png",
+  "static\\media\\ps.png": "static/media/ps.a9a97210.png",
+  "static\\media\\redux.png": "static/media/redux.8251fe76.png",
+  "static\\media\\sql.png": "static/media/sql.4ccd3dff.png"
 }
